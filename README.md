@@ -23,5 +23,3 @@
 
 ## Contato: 
 - [leotelles01@gmail.com]
-
-![Snake animation](https://github.com/LeoTelless/LeoTelless/blob/output/github-contribution-grid-snake.svg)
