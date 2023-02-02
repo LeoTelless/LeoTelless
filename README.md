@@ -24,4 +24,4 @@
 ## Contato: 
 - [leotelles01@gmail.com]
 
-![snake gif](https://github.com/LeoTelless/LeoTelless/blob/output/github-contribution-grid-snake.svg)
+
