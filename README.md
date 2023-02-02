@@ -19,7 +19,7 @@
 
 </div>
 
-"Não espere o futuro mudar sua vida, pois ele é a consequência do presente"
+<br>"Não espere o futuro mudar sua vida, pois ele é a consequência do presente"</br>
 
 ## Contato: 
 - [leotelles01@gmail.com]
